@@ -28,7 +28,7 @@ global.botscript = '' //script link
 global.packname = "ʙᴏᴛꜱᴏɴ ᴍᴅ"
 global.author = "ʜᴜᴅꜱᴏɴ"
 global.creator = "237680255347@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '*'
 global.premium = ["237680255347"] // Premium User
 global.hituet = 0
 
